@@ -1,1 +1,1 @@
-teste
+Projeto final da disciplina Projeto Integrador I.
