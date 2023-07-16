@@ -60,10 +60,6 @@ p {
     padding-left: 30px;
 }
 
-.senha {
-    margin-bottom: 10%;
-}
-
 .text-content .logo {
     width: 239px;
 }
@@ -72,6 +68,7 @@ p {
     flex-direction: row;
     max-width: 500px;
     display: flex;
+    margin-top: 10%;
 }
 
 a:hover, a:visited, a:link {
